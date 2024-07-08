@@ -1,5 +1,4 @@
 # SpencerMicroscopeLamp
-v1.0
 A 3D printable Lamp for an American Optics Spencer Microscope
 
 ## Safety warning
@@ -41,4 +40,3 @@ This printable is designed for use only with an LED bulb of 3 watts or less.  If
 ## Suggestions for future work
 * Test painting or lining interior for less light loss
 * Consider Mechanism to allow adjusting bulb position
-* Add LED only text to inside of base
