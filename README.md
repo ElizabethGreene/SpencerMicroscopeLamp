@@ -19,7 +19,8 @@ This printable is designed for use only with an LED bulb of 3 watts or less.  If
 * (1) G8 Lamp base
 * * https://amzn.to/3XM13Z3 
 * (1) Lamp cord with Dimmer
-* * https://amzn.to/3XPJfwb 
+* * https://amzn.to/3XPJfwb
+* * NOTE: This is not recommended for new builds. It struggles with low wattage LEDs and causes rolling shutter effects that interfere with photography.  An analog (resistive) dimmer should work better. 
 * Solder
 * Heatshrink
 
