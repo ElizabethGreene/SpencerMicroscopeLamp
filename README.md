@@ -1,6 +1,4 @@
 # SpencerMicroscopeLamp
-v0.1 - This is an ALPHA release, and known bugs exist.
-
 A 3D printable Lamp for an American Optics Spencer Microscope
 
 ## Safety warning
@@ -22,36 +20,23 @@ This printable is designed for use only with an LED bulb of 3 watts or less.  If
 * * https://amzn.to/3XM13Z3 
 * (1) Lamp cord with Dimmer
 * * https://amzn.to/3XPJfwb
-* * NOTE: This does not work properly, and is not recommended for new builds.  It struggles with low wattage LEDs and has a problem with rolling shutter effects for photography. 
+* * NOTE: This is not recommended for new builds. It struggles with low wattage LEDs and causes rolling shutter effects that interfere with photography.  An analog (resistive) dimmer should work better. 
 * Solder
 * Heatshrink
 
 ## Assembly
 * 3D print components
-* Using 1/8" drill
-* * enlarge holes in top cover (TOFIX)
-* * enlarge through holes in base for M3 screws for mounting lamp base (TOFIX)
-* Using 1/4" drill, drill hole for lamp cord in base (TOFIX)
 * Using M3 screws and nuts, mount lamp base
 * Feed Lamp cord through hole in base
 * Tie overhand knot in lamp cord as strain relief
 * Strip, solder, and heatshrink lamp cord to lamp base wiring
-* Tidy wiring so it won't contact bulb.
+* Tidy wiring so it won't contact bulb using zip tie loop.
 * Install bulb
 * Secure top cover with 4 #4 wood screws
 
 ## Installation
 * Using screwdriver, gently spread mirror mount on Microscope to remove mirror.
 * Gently spread mirror mount to install new lamp.
-
-## Todo: Fixes for v1.0
-* Add LED only text to inside of base
-* Trim 'bulge' to allow closer fitting to stem
-* Reduce height slightly
-* Increase hole clearances
-* Increase countersink depth
-* Add hole for lamp cord
-* Add zip-tie loop for tidying wiring
 
 ## Suggestions for future work
 * Test painting or lining interior for less light loss
